@@ -1,21 +1,21 @@
-# 📄 Resume Critic Pro  
+# Resume Critic Pro  
 
 An **AI-powered Resume Analyzer & Career Path Recommender** built with **Python** and **Streamlit**.  
 It helps users improve their resumes by detecting grammar issues, missing sections, keyword usage, and provides career growth suggestions using AI.  
 
----
 
-## 🌟 Features  
-- 📂 Upload resumes (PDF/DOCX) for instant analysis  
-- 📝 Detect grammar issues, missing sections, and keyword usage  
-- 📊 Resume scoring system with data visualization  
-- 🤖 AI-driven career path recommendation using the **A\*** algorithm  
-- 🎯 Personalized skill-gap analysis for career growth  
-- 📥 Downloadable feedback report  
 
----
+## Features  
+- Upload resumes (PDF/DOCX) for instant analysis  
+- Detect grammar issues, missing sections, and keyword usage  
+- Resume scoring system with data visualization  
+- AI-driven career path recommendation using the **A\*** algorithm  
+- Personalized skill-gap analysis for career growth  
+- Downloadable feedback report  
 
-## 🛠 Tech Stack  
+
+
+## Tech Stack  
 - **Python** – Core programming  
 - **Streamlit** – Interactive web app UI  
 - **PyMuPDF** & **python-docx** – Extract text from resumes  
@@ -24,9 +24,9 @@ It helps users improve their resumes by detecting grammar issues, missing sectio
 - **A\* Algorithm** – AI search algorithm for career path recommendation  
 - **Pandas & Regex** – Text processing and analysis  
 
----
 
-## 🧠 How AI & NLP are Used  
+
+## How AI & NLP are Used  
 - **Natural Language Processing (NLP):**  
    - Detects grammar errors and suggests corrections.  
    - Identifies missing sections (Education, Skills, Experience).  
@@ -37,7 +37,7 @@ It helps users improve their resumes by detecting grammar issues, missing sectio
    - Finds the optimal path from the user’s current role to their target role.  
    - Considers skills, years of experience, and career growth opportunities.  
 
----
+
 <img width="991" height="430" alt="image" src="https://github.com/user-attachments/assets/6fdc729e-909d-4e88-b6cd-5720a7ea8a60" />
 <img width="802" height="505" alt="image" src="https://github.com/user-attachments/assets/d4ed55a4-bea1-475f-bfbe-1d01e0504fa6" />
 <img width="760" height="509" alt="image" src="https://github.com/user-attachments/assets/b43ede2b-3ea4-4757-beef-7b99a08e9e94" />
